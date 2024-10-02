@@ -1,4 +1,4 @@
-# Advanced Web Crawler
+# Web Crawler
 
 ## Overview
 This project is an advanced web crawler built with Python, leveraging FastAPI for the API layer and Redis for data storage. It's designed to efficiently crawl websites, extract content, and provide various statistics and insights about the crawling process.
